@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast exploring the fas
 ---
 
 ## 📫 **Connect with Me**  
-- 🌐 [LinkedIn](https://linkedin.com/in/yashjadhav)  
-- ✍️ [Medium](https://medium.com/@yashjadhav)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yash-jadhav-454b0a237/)  
+- ✍️ [Medium](https://medium.com/@yashvj2222)  
 
 Feel free to explore my repositories and reach out for collaborations or discussions! 🚀
