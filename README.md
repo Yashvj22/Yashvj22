@@ -31,8 +31,9 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast exploring the fas
 
 ## 🌟 **Highlighted Projects**  
 - **Book Recommendation System**: Developed a system to suggest personalized book recommendations using machine learning techniques.  
-- **UPI Transaction Data Analysis**: Analyzed transaction patterns and trends, creating insightful visualizations with Power BI.   
-
+- **UPI Transaction Data Analysis**: Analyzed transaction patterns and trends, creating insightful visualizations with Power BI.  
+- **Library Management System**: Designed a SQL-based system to manage and analyze library data, including advanced analytical queries for retrieving book and borrower information.
+  
 ---
 
 ## 📫 **Connect with Me**  
