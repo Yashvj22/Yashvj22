@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast exploring the fas
 ---
 
 ## 🌟 **Highlighted Projects**  
-- **Book Recommendation System**: Developed a system to suggest personalized book recommendations using machine learning techniques.  
-- **UPI Transaction Data Analysis**: Analyzed transaction patterns and trends, creating insightful visualizations with Power BI.  
+- **Analyzing-Consumer-Trends-in-Protein-Supplements-Using-Exploratory-Data-Analysis**: Analyzed consumer trends in the protein supplement market using EDA techniques to help consumers make informed choices and assist businesses in optimizing their product strategies.
+- **UPI Transaction Data Analysis**: Interactive Power BI dashboard allows stakeholders to track and monitor **monthly transaction volumes, payment methods, and city-wise distributions** efficiently.  
 - **Library Management System**: Designed a SQL-based system to manage and analyze library data, including advanced analytical queries for retrieving book and borrower information.
   
 ---
