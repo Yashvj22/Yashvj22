@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Yash Jadhav!  
-### 💻 Aspiring Data Scientist | Python Developer | MySQL | PowerBI 
+### Aspiring Data Scientist | Python Developer | MySQL | PowerBI | Apache Hadoop | Apache Sqoop | Apache Hive
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast exploring the fascinating world of data and programming. Here's a bit about me:  
 
 ---
 
-## 🚀 **About Me**  
+## **About Me**  
 - 🎓 Fresher with expertise in **Data Science**, **Data Engineering**, and **Data Analysis**.  
 - 🔍 Actively seeking opportunities to create impactful solutions using data.  
 - 💡 Continuously learning and working on innovative projects to expand my skill set.  
 
 ---
 
-## 🔧 **Skills and Tools**  
+## **Skills and Tools**  
 <div align="center">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>  
