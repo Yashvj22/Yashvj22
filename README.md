@@ -30,9 +30,17 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast exploring the fas
 ---
 
 ## 🌟 **Highlighted Projects**  
-- **Analyzing-Consumer-Trends-in-Protein-Supplements-Using-Exploratory-Data-Analysis**: Analyzed consumer trends in the protein supplement market using EDA techniques to help consumers make informed choices and assist businesses in optimizing their product strategies.
-- **UPI Transaction Data Analysis**: Interactive Power BI dashboard allows stakeholders to track and monitor **monthly transaction volumes, payment methods, and city-wise distributions** efficiently.  
-- **Library Management System**: Designed a SQL-based system to manage and analyze library data, including advanced analytical queries for retrieving book and borrower information.
+- **Analyzing-Consumer-Trends-in-Protein-Supplements-Using-Exploratory-Data-Analysis**:  
+  Analyzed consumer trends in the protein supplement market using EDA techniques to help consumers make informed choices and assist businesses in optimizing their product strategies.
+
+- **UPI Transaction Data Analysis**:  
+  Interactive Power BI dashboard allows stakeholders to track and monitor **monthly transaction volumes, payment methods, and city-wise distributions** efficiently.
+
+- **Life Expectancy Prediction Model**:  
+  Built a **Machine Learning model** using **Ensemble Learning techniques** to predict **Life Expectancy** based on socio-economic and health-related factors. Applied **Optuna-based hyperparameter tuning** for performance optimization. Includes **EDA, feature engineering, and model deployment** via a **Streamlit app**.  
+
+- **Employee Attrition Prediction**:  
+  Developed a **classification model** using **Ensemble Learning techniques** to predict employee attrition. Integrated **Optuna-based hyperparameter tuning** to improve model accuracy. Deployed an **interactive Streamlit app** for real-time predictions.
   
 ---
 
