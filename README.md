@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash Jadhav!  
-### Aspiring Data Scientist | Python Developer | MySQL | PowerBI | Apache Hadoop | Apache Sqoop | Apache Hive
+### Aspiring Gen AI Data Scientist | Python Developer | Apache Spark | Hadoop Ecosystem (Hive, Sqoop) | MySQL | Power BI | AI & ML Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast exploring the fascinating world of data and programming. Here's a bit about me:  
 
