@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast exploring the fas
 ---
 
 ## **About Me**  
-- 🎓 Fresher with expertise in **Data Science**, **Data Engineering**, and **Data Analysis**.  
+- 🎓 Fresher with expertise in **Data Science** and **Data Analysis**.  
 - 🔍 Actively seeking opportunities to create impactful solutions using data.  
 - 💡 Continuously learning and working on innovative projects to expand my skill set.  
 
@@ -32,6 +32,13 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast exploring the fas
 ---
 
 ## 🌟 **Highlighted Projects**  
+
+- **Microsoft Malware Classification**:  
+  Built a robust classification pipeline to categorize malware into respective families using Microsoft's benchmark dataset. Performed feature extraction from large binary files and model optimization. Employed techniques like **uni-gram** byte feature extraction, with a strong focus on handling high-dimensional sparse data.
+
+- **Face Recognition Cricket Players Stats App**:  
+  Developed an innovative **Streamlit-based application** integrating **OpenCV face recognition** to detect cricket players from an uploaded image and display their stats. Combined **image processing** with **sports analytics** to build an interactive, user-friendly tool that merges computer vision with domain-specific data.
+
 - **Life Expectancy Prediction Model**:  
   Built a **Machine Learning model** using **Ensemble Learning techniques** to predict **Life Expectancy** based on socio-economic and health-related factors. Applied **Optuna-based hyperparameter tuning** for performance optimization. Includes **EDA, feature engineering, and model deployment** via a **Streamlit app**.
 
